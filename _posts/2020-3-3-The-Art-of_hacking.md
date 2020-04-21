@@ -3,7 +3,7 @@ layout: post
 title: The Art of Hacking
 ---
 
-![_config.yml]({{ site.baseurl }}/images/theartofhackingcover.png)
+![_config.yml]({{ site.baseurl }}/images/the-art-of-hacking.png)
 <div class="razorpay-embed-btn" data-url="https://pages.razorpay.com/pl_EgidL0zNTNQfZ2/view" data-text="Pay Now" data-color="#00B050" data-size="large">
   <script>
     (function(){
