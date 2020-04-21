@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I am a cyber security enthusiast and trying to share relevant and genuine information about cyber sevurity and beyond. You can contact me through instagram and mail.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[thehackingninja@protonmail.com](mailto:thehackingninja@protonmail.com)
