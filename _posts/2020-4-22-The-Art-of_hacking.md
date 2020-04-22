@@ -2,6 +2,8 @@
 layout: post
 title: The Art of Hacking
 ---
+![_config.yml]({{ site.baseurl }}/images/theartofhackingcover2.png)
+
 This is the guide that will make sure you have a **hard start** in hacking and you don&#39;t have to spend countless hours researching stuff.
 
 Research is Great but a good **direction** is always needed.
