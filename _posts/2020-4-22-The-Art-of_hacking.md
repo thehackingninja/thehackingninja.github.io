@@ -322,7 +322,9 @@ r/oscp
       s.src='https://cdn.razorpay.com/static/embed_btn/bundle.js';d.body.appendChild(s);} else{var rzp=window['__rzp__'];
       rzp && rzp.init && rzp.init()}})();
   </script>
-</div>
-    
+ 
 <script src="https://gumroad.com/js/gumroad.js"></script>
 <a class="gumroad-button" href="https://gum.co/qkhZb?wanted=true" target="_blank">Donate (international)</a>
+
+</div>
+    
