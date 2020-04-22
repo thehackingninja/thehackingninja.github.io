@@ -13,14 +13,13 @@ Research is Great but a good **direction** is always needed.
 1. Step by step guide to help you put on a **path** of learning to hack.
 2. How to have a side income by **bug bounty hunting**.
 3. What are different **sources** you must follow to learn about interesting things in this domain?
-4. Why should you **not** do udemy courses?
-5. I will explain terms in **easy** language.
-6. Famous attack vectors.
-7. Some famous hacks of the world.
-8. Myths busted.
-9. All information is given with further reading. ( **Links** )
-10. How are other fields of computer science interacting with it ?
-11. What hardware tools hackers use?
+4. I will explain terms in **easy** language.
+5. Famous attack vectors.
+6. Some famous hacks of the world.
+7. Myths busted.
+8. All information is given with further reading. ( **Links** )
+9. How are other fields of computer science interacting with it ?
+10. What hardware tools hackers use?
 
 **Who is this for :**
 
