@@ -314,7 +314,7 @@ r/oscp
 [https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g)
 
 
-<div class="razorpay-embed-btn" data-url="https://pages.razorpay.com/pl_EgidL0zNTNQfZ2/view" data-text="Pay Now" data-color="#00B050" data-size="large">
+<div class="razorpay-embed-btn" data-url="https://pages.razorpay.com/pl_EgidL0zNTNQfZ2/view" data-text="Donate (India)" data-color="#00B050" data-size="large">
   <script>
     (function(){
       var d=document; var x=!d.getElementById('razorpay-embed-btn-js')
@@ -323,3 +323,6 @@ r/oscp
       rzp && rzp.init && rzp.init()}})();
   </script>
 </div>
+    
+<script src="https://gumroad.com/js/gumroad.js"></script>
+<a class="gumroad-button" href="https://gum.co/qkhZb?wanted=true" target="_blank">Donate (international)</a>
