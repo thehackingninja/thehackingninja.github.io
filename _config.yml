@@ -17,7 +17,9 @@ avatar: https://avatars0.githubusercontent.com/u/63935453?s=400&u=8be3cdb7278441
 
 defaults:
   - scope:
-      path: "pdf/"
+      path: ""
+  - values:
+      pdf: true
 
 # Includes an icon in the footer for each username you enter
 footer-links:
