@@ -19,7 +19,7 @@ Research is Great but a good **direction** is always needed.
 7. Myths busted.
 8. All information is given with further reading. ( **Links** )
 9. How are other fields of computer science interacting with it ?
-10. What hardware tools hackers use?
+10. What hardware tools hackers use? (this will be in coming posts)
 
 **Who is this for :**
 
