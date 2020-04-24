@@ -2,7 +2,7 @@
 layout: post
 title: The Art of Hacking
 ---
-![_config.yml]({{ site.baseurl }}/images/theartofhackingcover2.png)
+<img src="{{ site.baseurl }}/images/theartofhackingcover2.png" alt="The Art of Hacking Cover">
 
 This is the guide that will make sure you have a **hard start** in hacking and you don&#39;t have to spend countless hours researching stuff.
 
