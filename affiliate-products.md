@@ -1,9 +1,9 @@
 ---
 layout: default
-title: The Products I Recommend
+title: The Products We Recommend
 ---
 
-<a href=https://www.datacamp.com?tap_a=5644-dce66f&tap_s=910284-028c32&utm_medium=affiliate&utm_source=hackingninja" id="408775"><img src="{{ site.baseurl }}/images/datacamp.png" border="0" alt="Datacamp" width="100%" height="auto"/></a><img height="0" width="0" src="https://www.datacamp.com?tap_a=5644-dce66f&tap_s=910284-028c32&utm_medium=affiliate&utm_source=hackingninja" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://www.datacamp.com?tap_a=5644-dce66f&tap_s=910284-028c32&utm_medium=affiliate&utm_source=hackingninja"><img src="{{ site.baseurl }}/images/datacamp.png" border="0" alt="Datacamp" width="100%" height="auto"/></a><img height="0" width="0" src="https://www.datacamp.com?tap_a=5644-dce66f&tap_s=910284-028c32&utm_medium=affiliate&utm_source=hackingninja" style="position:absolute;visibility:hidden;" border="0" />
 <br>
 
 <a href="https://click.hmavpn.com/aff_c?offer_id=1&aff_id=1177&file_id=229">
