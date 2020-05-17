@@ -77,5 +77,4 @@ It is basically running automated tests and providing test results for the compa
 <div>
 <script src="https://gumroad.com/js/gumroad.js"></script>
 <a class="gumroad-button" href="https://gum.co/qkhZb?wanted=true" target="_blank">Click to get the guide</a>
- </center>
 </div>
