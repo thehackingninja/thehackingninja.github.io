@@ -19,5 +19,3 @@ title: The Products We Recommend
 <a href="https://namecheap.pxf.io/c/2307864/408775/5618" id="408775"><img src="{{ site.baseurl }}/images/namecheap.png" border="0" alt="Namecheap" width="100%" height="auto"/></a><img height="0" width="0" src="//namecheap.pxf.io/i/2307864/408775/5618" style="position:absolute;visibility:hidden;" border="0" />
 <br>
 <a href="https://www.digistore24.com/redir/261680/thehackingninja/"><img src="{{ site.baseurl }}/images/finxter.png" border="0" alt="finxter python ebooks" width="100%" height="auto"/></a><img height="0" width="0" src="https://www.digistore24.com/redir/261680/thehackingninja/" style="position:absolute;visibility:hidden;" border="0" />
-<br>
-<a href="https://www.humblebundle.com/books/c-net-core-packt-books?partner=thehackingninja"><img src="{{ site.baseurl }}/images/humblebundle.png" border="0" alt="Humble Bundle ebooks" width="100%" height="auto"/></a><img height="0" width="0" src="https://www.humblebundle.com/books/c-net-core-packt-books?partner=thehackingninja" style="position:absolute;visibility:hidden;" border="0" />
