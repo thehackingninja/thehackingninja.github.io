@@ -13,7 +13,7 @@ avatar: https://avatars2.githubusercontent.com/u/63935453?s=400&u=6d42b378274bb8
 
 defaults:
   - scope:
-      path: ""
+      path: "pdf"
   - values:
       pdf: true
 
