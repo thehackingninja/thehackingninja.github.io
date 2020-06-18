@@ -47,6 +47,5 @@ title: The Products We Recommend
 </div>
 
 <div class="card">
-<a href="https://www.bluehost.com/track/thehackingninja/" target="_blank"> <img border="0" src="https://bluehost-cdn.com/media/partner/images/thehackingninja/760x80/760x80BW.png"> </a>
+<a href="https://www.bluehost.com/track/thehackingninja/" target="_blank"><img src="{{ site.baseurl }}/images/bluehost.png" border="0" alt="BlueHost Hosting" width="100%" height="auto"/></a><img height="0" width="0" src="https://www.bluehost.com/track/thehackingninja/" style="position:absolute;visibility:hidden;" border="0" />
 </div>
-
